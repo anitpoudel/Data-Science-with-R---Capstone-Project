@@ -1,4 +1,4 @@
-These codes gives a reference solution for "Data Science with R - Capstone Project" with 
+These codes give a reference solution for "Data Science with R - Capstone Project" with 
 is a part of "IBM Data Analytics with Excel and R Professional Certificate" course
 available at coursera.
 
